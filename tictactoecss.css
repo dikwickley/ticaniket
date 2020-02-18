@@ -1,0 +1,44 @@
+
+body{
+	background: linear-gradient(90deg,lightblue,lightpink);
+}
+
+button {
+	color: white;
+	font-size:2vw;
+	font-family: helvetica;
+	
+	
+	height: 50px;
+	width: 50px;
+	text-align: center;
+	background-color: black;
+	box-shadow: none;
+	border: 0.2vw solid white;
+
+	
+}
+
+
+.title{
+
+	font-family: fantasy;
+	text-align: center;
+	font-size: 10vw;
+	position: fixed;
+	top: 0px;
+	right: 0px;
+	height:10vw;
+	width: 100%;
+	background-color: white;
+}
+
+.buttons {
+	position: absolute;
+    left: 50%;
+    top: 30%;
+    transform: translate(-50%, 0px);
+
+   }
+
+
